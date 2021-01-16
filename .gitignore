@@ -1,0 +1,10 @@
+/venv/
+/.idea/
+/__pycache__/
+/venv3.6/
+__pycache__/
+.DS_Store
+/db.py
+/gmail.py
+/message.py
+/ddddd.py
